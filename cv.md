@@ -2,7 +2,7 @@
 ---
 ## <a name="contacts"></a>**Contacts**
 - **Location:** Reutov, Russia
-- **Phone:** +7 936 306 36 56 
+- **Phone:** +7 936 306 36 50 
 - **Email:** alesia.kuzmich@gmail.com
 - **Telegram:** @alesia\_nikolaevna
 - **GitHub:** [a1esia](https://github.com/a1esia) 
