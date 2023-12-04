@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+  }
+html,body{
+    margin: 0;
+    padding: 0;
+    background-color: #e1d4c9;
+    font-family: 'Inter';
+    scroll-behavior: smooth;
+  }
+
