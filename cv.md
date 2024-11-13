@@ -25,7 +25,7 @@ alert( a );
 a++;
 ```
 ## <a name="education"></a>**Education**
-- **Courses:** IT-Academy - Website development using HTML, CSS, JavaScript, BELHARD, Itlogia
+- **Courses:** IT-Academy, BELHARD, Itlogia
 ### <a name="languages"></a>**Languages:**
 - **Russian** - native 
 - **English** - B1
